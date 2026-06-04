@@ -160,3 +160,7 @@ cython_debug/
 #.idea/
 
 *.chroma/
+
+# Local History
+# .lh/.lhignore
+.lh/**
